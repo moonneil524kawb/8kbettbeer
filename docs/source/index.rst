@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+8KBet - 8kbett.beer - Nền Tảng Casino Hàng Đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`8kbet <https://8kbett.beer/>`_ nền tảng giải trí trực tuyến uy tín cung cấp dịch vụ cá cược và trò chơi đổi thưởng hàng đầu. Với hệ sinh thái đa dạng, 8kbet mang đến cho người chơi những trải nghiệm thú vị từ cá cược thể thao, casino trực tuyến, đến các trò chơi slot và bắn cá đổi thưởng. 8kbet cam kết mang lại sự minh bạch, công bằng và bảo mật tối đa, cùng giao diện dễ sử dụng trên mọi thiết bị. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với các chương trình khuyến mãi hấp dẫn và đội ngũ hỗ trợ tận tâm 24/7, 8kbet là điểm đến lý tưởng cho những ai mong muốn vừa giải trí vừa có cơ hội chiến thắng lớn. Hãy tham gia ngay hôm nay để bắt đầu hành trình chiến thắng của bạn!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ:2801A Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0765000877. 
 
-.. toctree::
+Email: info@8kbett.beer. 
 
-   usage
-   api
+Website: https://8kbett.beer/
+
+#8kbet #trangchu8kbet #dangky8kbet #dangnhap8kbet #link8kbet
